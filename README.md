@@ -1,4 +1,4 @@
-```md
+md
 # 🔍 API Test Automation Framework – Gin & Juice E-commerce Platform
 
 ## 📌 Project Summary
@@ -148,6 +148,3 @@ This project demonstrates:
 * Pytest framework design and usage
 * CI/CD integration experience
 * Real-world e-commerce backend testing against a live production website
-
-```
-```
