@@ -1,4 +1,4 @@
-md
+
 # 🔍 API Test Automation Framework – Gin & Juice E-commerce Platform
 
 ## 📌 Project Summary
